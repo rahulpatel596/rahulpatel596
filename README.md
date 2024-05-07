@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey there, I'm Rahul Patel 👋
+
+
+Software Engineer
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rahul%20Patel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-patel0/)](https://www.linkedin.com/in/rahul-patel0/)
 
 <!--
 **rahulpatel596/rahulpatel596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
